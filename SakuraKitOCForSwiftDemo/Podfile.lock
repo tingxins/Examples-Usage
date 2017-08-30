@@ -1,0 +1,15 @@
+PODS:
+  - SakuraKit (1.0.0):
+    - SSZipArchive
+  - SSZipArchive (2.0.3)
+
+DEPENDENCIES:
+  - SakuraKit
+
+SPEC CHECKSUMS:
+  SakuraKit: 9ca56ebff8ad0fd8f61af7a340e2c27d691c554a
+  SSZipArchive: b6648b70a36303ca5be9f0351174b347e1886236
+
+PODFILE CHECKSUM: eae38a2831b2dd52830b053d26218f9495bee26e
+
+COCOAPODS: 1.2.0.beta.1
