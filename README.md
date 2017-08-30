@@ -4,10 +4,10 @@
 
 ## [TXScrollLabelView](https://github.com/tingxins/TXScrollLabelView)
 
-TXScrollLabelViewForSwiftDemo is an example of [TXScrollLabelView](https://github.com/tingxins/TXScrollLabelView) for Swift.
+[TXScrollLabelViewForSwiftDemo](https://github.com/tingxins/Examples-Usage/tree/master/TXScrollLabelViewForSwiftDemo) is an example of [TXScrollLabelView](https://github.com/tingxins/TXScrollLabelView) for Swift.
 
 ## [SakuraKitOC](https://github.com/tingxins/SakuraKit)
 
-SakuraKitOCForSwiftDemo is an example of [SakuraKitOC](https://github.com/tingxins/SakuraKit) for Swift.
+[SakuraKitOCForSwiftDemo](https://github.com/tingxins/Examples-Usage/tree/master/SakuraKitOCForSwiftDemo) is an example of [SakuraKitOC](https://github.com/tingxins/SakuraKit) for Swift.
 
 
